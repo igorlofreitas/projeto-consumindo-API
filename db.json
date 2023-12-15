@@ -19,6 +19,11 @@
       "name": "Lanche",
       "amount": -30,
       "id": 6
+    },
+    {
+      "name": "Lanche",
+      "amount": -30,
+      "id": 7
     }
   ]
 }
